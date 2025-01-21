@@ -1,0 +1,17 @@
+langchain
+langchain-openai
+numpy
+python-dotenv
+fastapi
+uvicorn
+requests
+#chromadb
+langchain-chroma
+langchain_community
+pypdf
+unstructured 
+python-multipart
+pinecone
+pinecone-client
+langchain_pinecone
+
